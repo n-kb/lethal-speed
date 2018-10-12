@@ -1,7 +1,7 @@
 <template>
   <span>
     <sup class="note" @click="note_open = true">{{ note_number }}</sup>
-    <div class="notification is-link is-note" v-if="note_open == true">
+    <div class="notification is-note is-size-6" v-if="note_open == true">
       <button class="delete" @click="note_open = false"></button>
       <p v-html="content"></p>
     </div>
