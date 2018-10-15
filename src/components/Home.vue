@@ -92,7 +92,7 @@
                     <p>Newsletter</p>
                   </div>
                   <div class='message-body'>
-                    <p>Write down your e-mail in the box below and you\'ll receive my next text directly in your inbox.</p>
+                    <p>Write down your e-mail in the box below and you'll receive my next text directly in your inbox.</p>
                     <form style='padding:3px;' action='https://tinyletter.com/nkb' method='post' target='popupwindow' onsubmit="window.open('https://tinyletter.com/nkb', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
                       <p>
                         <input type='text' style='width:300px' placeholder='Your e-mail address here' name='email' id='tlemail' class='input'/>
