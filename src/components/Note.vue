@@ -23,8 +23,8 @@ export default {
       type: String
     },
     note_number: {
-      default: 1,
-      type: Number
+      default: "1",
+      type: String
     }
   }
 }

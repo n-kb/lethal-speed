@@ -1,6 +1,6 @@
 <template>
   <div >
-    <h3>How much do you weight?</h3>
+    <h3>How much do you weigh?</h3>
     <div>
       <vue-slider 
         class="slider"
